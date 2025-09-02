@@ -24,14 +24,14 @@ Designed in **Figma**; this repo contains the design source and exported screens
 </p>
 
 ## Repository Structure
-Design/
-High Level Design/ # exported PNGs (high-level flows)
-Low Level Design/ # detailed interaction screens
-Cover.png # cover image for README
-UniVibe.fig # Figma source
-Docs/
-Project_Description.md
-Extra Documentation/
-LICENSE
-README.md
-CONTRIBUTING.md
+  Design/
+  High Level Design/ # exported PNGs (high-level flows)
+  Low Level Design/ # detailed interaction screens
+  Cover.png # cover image for README
+  UniVibe.fig # Figma source
+  Docs/
+  Project_Description.md
+  Extra Documentation/
+  LICENSE
+  README.md
+  CONTRIBUTING.md
