@@ -3,7 +3,7 @@
 Centralized UI/UX for managing VIT’s Clubs & Chapters: events, groups, announcements, chat, and achievements.  
 Designed in **Figma**; this repo contains the design source and exported screens.
 
-![Cover](Design/cover.png)
+![Cover](Design/Cover.png)
 
 ## Live Prototype
 👉 https://www.figma.com/design/OL7NhXZ4sYm2pF6XwtZfUG/UniVibe?node-id=0-1&t=1OHUJkx1B06UHy07-1
